@@ -1,5 +1,5 @@
 # Openclassrooms_Bash_langstat
-A bash script checking for palindrom in a text file. Written for the Linux course of Openclassrooms.
+A bash script checking for numbers of occurence of each letters in a text file. Written for the Linux course of Openclassrooms.
 
 This was for a french course, so comments are in french...
 
